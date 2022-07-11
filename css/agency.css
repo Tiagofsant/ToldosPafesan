@@ -239,7 +239,7 @@ header.masthead .intro-text .intro-heading {
   margin: 15px 0;
   text-transform: none;
 
-;
+  ;
 }
 
 #portfolio .portfolio-item {
@@ -714,18 +714,4 @@ ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
   background-color: #342d2e;
-}
-
-
-
-/* ========================================================================ALTERAÇÕES MINHAS ==================================================================================== */
-
-
-.img-services {
-
-  margin:  2px;
-  padding: 2px;
-  width: 225px;
-  height: 225px;
-  display: block;
 }
